@@ -14,7 +14,7 @@ NetID - mxv8999
 The game consists of two players taking turns to remove either one red or one blue token from the board. The player who removes the last token wins the game. The program allows the user to play against the computer. The user can specify the number of red and blue tokens and the depth of the decision tree. The program implements the minimax algorithm to find the best move for the computer.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/mayank-vekariya/ai_2/blob/main/output_screen_shot/Capture%202.png))
 
 ## Installation
 
